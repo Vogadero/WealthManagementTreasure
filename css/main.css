@@ -797,7 +797,7 @@ header .main ul li a:active {
     width: 20%;
     height: 35px;
 
-    background: url(file:///G|/responsiveWeb/src/img/logo@1x.png) no-repeat;
+    background: url(../img/logo@1x.png) no-repeat;
     background-size: 150px 35px;
 
     -webkit-filter: grayscale(100%);
@@ -876,7 +876,7 @@ footer ul li .icon {
 
     text-indent: -999rem;
 
-    background: url(http://i.alipayobjects.com/e/201307/jebmKcbrh.png) no-repeat;
+    background: url(../img/cert1.png) no-repeat;
     background-size: 466px 447px;
 }
 
@@ -928,7 +928,7 @@ footer ul li .icon-gs {
     width: 30px;
     height: 30px;
 
-    background: url(http://os.alipayobjects.com/rmsportal/lybcjqloSPjMAFg.png) no-repeat;
+    background: url(../img/cert2.png) no-repeat;
     background-size: 30px;
 }
 
